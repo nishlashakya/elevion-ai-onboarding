@@ -1,0 +1,16 @@
+<svg width="280" height="96" viewBox="0 0 280 96" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Elevion AI logo placeholder</title>
+  <desc id="desc">A simple circuit-tree lightbulb icon with Elevion in navy and AI in gold.</desc>
+  <circle cx="46" cy="38" r="25" stroke="#1C3F60" stroke-width="5"/>
+  <path d="M36 69H56" stroke="#1C3F60" stroke-width="5" stroke-linecap="round"/>
+  <path d="M39 79H53" stroke="#1C3F60" stroke-width="5" stroke-linecap="round"/>
+  <path d="M46 64V52" stroke="#1C3F60" stroke-width="4" stroke-linecap="round"/>
+  <path d="M46 52L33 40" stroke="#1C3F60" stroke-width="4" stroke-linecap="round"/>
+  <path d="M46 52L59 40" stroke="#1C3F60" stroke-width="4" stroke-linecap="round"/>
+  <path d="M46 52V30" stroke="#1C3F60" stroke-width="4" stroke-linecap="round"/>
+  <circle cx="33" cy="40" r="4" fill="#FFB423"/>
+  <circle cx="59" cy="40" r="4" fill="#FFB423"/>
+  <circle cx="46" cy="30" r="4" fill="#FFB423"/>
+  <text x="88" y="55" fill="#1C3F60" font-family="Poppins, Arial, sans-serif" font-size="34" font-weight="700">Elevion</text>
+  <text x="220" y="55" fill="#FFB423" font-family="Poppins, Arial, sans-serif" font-size="34" font-weight="700">AI</text>
+</svg>
