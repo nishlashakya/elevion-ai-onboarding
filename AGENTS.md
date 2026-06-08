@@ -30,7 +30,7 @@ Not configured in this repo (no ESLint, Prettier, or test runner scripts).
 ### Dev server notes
 
 - Run the dev server in a persistent tmux session if you need it in the background; Vite binds to port 5173 by default.
-- Google Fonts load from CDN in `index.html`; the form still works with system font fallbacks if the CDN is reachable.
+- Google Fonts load from CDN in `index.html`; the form still works with system font fallbacks if the CDN is unreachable.
 
 ### Vercel deployment
 
